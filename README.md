@@ -14,7 +14,7 @@ Developer resume and portfolio presentation project.
 
 Developer CV is a portfolio project in the TheAdhithyanKR/developer-cv repository. Next.js personal CV and portfolio site with project, skills, timeline, and profile sections.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
